@@ -373,24 +373,6 @@ tg://proxy?server=n73dd23.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0
 ---
 
 ```
-tg://proxy?server=n78dcf0.tidalcache.com&port=443&secret=ee5c89ab20266ce759f96a0745b63d7cdf656467652e746964616c63616368652e636f6d
-```  
-🛡 **Канал-спонсор:** TGPP: Бессмертный прокси для Телеграм  
-📜 **История проверок:**  
-**BY (70 ms):**
-✅✅✅✅✅✅✅✅✅✅  
-**RU №1 (57 ms):**
-✅✅✅✅✅✅✅✅✅✅  
-**RU №2 (59 ms):**
-✅✅✅✅✅✅✅✅✅✅  
-**RU №3 (72 ms):**
-✅✅✅✅✅✅✅✅✅✅  
-🕒 **Обновлено:** 06.11.2026 05:13:22 (МСК)  
-
-
----
-
-```
 tg://proxy?server=n8cfe5c.lumenpost.top&port=443&secret=eee9a2afdabb007b8369d8d9d095cbe2916d2e6c756d656e706f73742e746f70
 ```  
 🛡 **Канал-спонсор:** 7vpn — новости VPN  
